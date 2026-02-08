@@ -320,7 +320,7 @@ git merge template/main
 
 ## 📞 获取帮助
 
-- 查看模板的 [Issues](https://github.com/Nevermore1102/MCP_Demo/issues)
+- 查看模板的 [Issues](https://github.com/Nevermore1102/OpenCode_template/issues)
 - 提问或报告问题
 - 分享你的使用经验
 
