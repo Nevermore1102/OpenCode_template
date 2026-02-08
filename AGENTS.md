@@ -77,6 +77,13 @@
 - 包管理器: npm/yarn/pnpm
 - 操作系统: [填写]
 
+### Git 配置
+- 用户名: Nevermore1102
+- 邮箱: 1535332051@qq.com
+- 远程仓库: https://github.com/Nevermore1102/MCP_Demo.git
+- 代理设置: socks5://127.0.0.1:10808 (通过v2ray)
+- 主分支: main
+
 ### 项目结构
 ```
 [填写项目目录结构]
